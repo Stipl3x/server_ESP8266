@@ -1,4 +1,4 @@
-# AEMC_temperature_server
+# server_ESP8266
 A tiny project made with some ESPs and inspiration
 
 To use ESP8266 with Arduino IDE add this link:
